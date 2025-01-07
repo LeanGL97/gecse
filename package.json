@@ -1,0 +1,12 @@
+{
+  "name": "gecse",
+  "version": "1.0.0",
+  "description": "Landing Page para una empresa dedicada al rubro metalúrgico, más específicamente a la construcción de frentes de parrilla.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
