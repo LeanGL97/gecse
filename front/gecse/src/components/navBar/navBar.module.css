@@ -1,0 +1,22 @@
+.linksText {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    color: beige;
+    font-size: 40px;
+    padding: 20px;
+    margin: 10px;
+    font-family: "Bebas Neue", serif;
+}
+
+.linksText a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.linksText a:hover {
+    text-decoration: underline;
+    color: rgb(26, 168, 173);
+}
+
